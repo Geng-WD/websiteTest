@@ -8,7 +8,8 @@ public static void main(String[] args) {
 	while(true) {
 		//synchronized(td) {
 			if(td.isFlag()) {
-				System.out.println("--------");
+				System.out.println("---+++-");
+				
 				break;
 			}
 		//}
