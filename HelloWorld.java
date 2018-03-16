@@ -5,7 +5,7 @@ class HelloWorld{
   Êä³öÓï¾ä System.out.println();
   */
       System.out.println("Hello Java!");
-      System.out.println("Hello Git!");
+      System.out.println("Hello GitHub!");
 
   }
 }
